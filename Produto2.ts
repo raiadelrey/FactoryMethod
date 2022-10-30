@@ -22,7 +22,7 @@ get ram() : void {
 }
 
 get hd() : void {
-     return console.log('HDD:', this.hd,'GB')
+     return console.log('HD:', this.hd,'GB')
 }
 get tipo() : void {
     
